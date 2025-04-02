@@ -1,8 +1,8 @@
-<div style="background-color: #0077B5; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); color: white; font-family: Arial, sans-serif; margin: 10px 0;">
-  <h3 style="margin: 0; font-size: 24px;">𝗛𝗶, 𝗜 𝗮𝗺 𝗚𝘂𝗶𝗹𝗵𝗲𝗿𝗺𝗲 𝗣𝗶𝗹𝗼𝘁𝗼, 𝗮 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗮𝗻𝗱 𝗮 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝗼𝗳 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴. 𝗜 𝗲𝗻𝗷𝗼𝘆 𝗰𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗲𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗻𝗲𝘄 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</h3>
-  <p style="font-size: 18px; margin: 10px 0;">💻 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 | 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱</p>
-  <p style="font-size: 18px; margin: 0;">🚀 𝗔𝗹𝘄𝗮𝘆𝘀 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘃𝗼𝗹𝘃𝗶𝗻𝗴.</p>
-</div>
+
+### 𝗛𝗶, 𝗜 𝗮𝗺 𝗚𝘂𝗶𝗹𝗵𝗲𝗿𝗺𝗲 𝗣𝗶𝗹𝗼𝘁𝗼, 𝗮 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗮𝗻𝗱 𝗮 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝗼𝗳 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴. 𝗜 𝗲𝗻𝗷𝗼𝘆 𝗰𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗲𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗻𝗲𝘄 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
+
+💻 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 | 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱</p>
+🚀 𝗔𝗹𝘄𝗮𝘆𝘀 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘃𝗼𝗹𝘃𝗶𝗻𝗴.</p>
 
 <div>
     <a href="https://github.com/GuiiPiloto/"></a>
@@ -22,7 +22,7 @@
   <img align="center" alt="Guii-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
 
-<h3 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 30px; color: #333; margin-top: 30px; background-color: #f4f4f4; padding: 10px 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: fit-content; margin-left: auto; margin-right: auto;">
+<h3 style="font-size: 30px;">
   Contact With Me
 </h3>
 
