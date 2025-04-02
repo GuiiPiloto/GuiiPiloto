@@ -1,6 +1,7 @@
-## Olá eu sou Guilherme Piloto, Sou Guilherme, desenvolvedor full stack e estudante de Engenharia de Software. Gosto de criar soluções eficientes e explorar novas tecnologias.
+### Olá sou Guilherme Piloto, desenvolvedor full stack e estudante de Engenharia de Software. Gosto de criar soluções eficientes e explorar novas tecnologias.
 
 💻 Front-end | Back-end
+
 🚀 Sempre aprendendo e evoluindo!
 
 <div>
