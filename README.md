@@ -4,9 +4,9 @@
 🚀 Sempre aprendendo e evoluindo!
 
 <div>
-  <a href="https://github.com/GuiiPiloto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiiPiloto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiPiloto&layout=compact&langs_count=16&theme=dracula"/>
+    <a href="https://github.com/GuiiPiloto/"></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiiPiloto&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiPiloto&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
