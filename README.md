@@ -5,7 +5,7 @@
 🚀 𝗔𝗹𝘄𝗮𝘆𝘀 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘃𝗼𝗹𝘃𝗶𝗻𝗴.</p>
 
 <div>
-    <a href="https://github.com/GuiiPiloto/"></a>
+    <a href="https://github.com/GuiiPiloto"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiiPiloto&show_icons=true&bg_color=2b2b2b&title_color=00ff00&text_color=ffffff&icon_color=00ff00&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiPiloto&layout=compact&langs_count=16&bg_color=2b2b2b&title_color=00ff00&text_color=ffffff&icon_color=00ff00"/>
 </div>
