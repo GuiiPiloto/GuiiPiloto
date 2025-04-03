@@ -6,8 +6,8 @@
 
 <div>
     <a href="https://github.com/GuiiPiloto"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiiPiloto&show_icons=true&bg_color=2b2b2b&title_color=00ff00&text_color=ffffff&icon_color=00ff00&include_all_commits=true&cache_seconds=3600"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiPiloto&layout=compact&langs_count=16&bg_color=2b2b2b&title_color=00ff00&text_color=ffffff&icon_color=00ff00&cache_seconds=3600""/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiiPiloto&show_icons=true&bg_color=2b2b2b&title_color=00ff00&text_color=ffffff&icon_color=00ff00&include_all_commits=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiPiloto&layout=compact&langs_count=16&bg_color=2b2b2b&title_color=00ff00&text_color=ffffff&icon_color=00ff00&cache_seconds=1800""/>
 </div>
 
 <div style="display: inline_block"><br>
