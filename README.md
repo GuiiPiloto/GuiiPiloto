@@ -1,8 +1,7 @@
-
 ### 𝗛𝗶, 𝗜 𝗮𝗺 𝗚𝘂𝗶𝗹𝗵𝗲𝗿𝗺𝗲 𝗣𝗶𝗹𝗼𝘁𝗼, 𝗮 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗮𝗻𝗱 𝗮 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝗼𝗳 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴. 𝗜 𝗲𝗻𝗷𝗼𝘆 𝗰𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗲𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗻𝗲𝘄 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
 
-💻 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 | 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱</p>
-🚀 𝗔𝗹𝘄𝗮𝘆𝘀 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘃𝗼𝗹𝘃𝗶𝗻𝗴.</p>
+💻 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 | 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱  
+🚀 𝗔𝗹𝘄𝗮𝘆𝘀 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘃𝗼𝗹𝘃𝗶𝗻𝗴.
 
 <div>
     <a href="https://github.com/GuiiPiloto"></a>
@@ -34,5 +33,5 @@
 </div>
 
 ---
-  
-![Snake animation](https://raw.githubusercontent.com/GuiiPiloto/GuiiPiloto/output/github-contribution-grid-snake-dark.svg)
+
+![Snake animation](https://raw.githubusercontent.com/GuiiPiloto/GuiiPiloto/output/github-contribution-grid-snake.svg)
