@@ -32,3 +32,7 @@
   <a href="https://www.linkedin.com/in/guilherme-piloto-8a1a892b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/qr/MEWT4NS2HJPYF1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"></a>
 </div>
+
+<div> 
+![Snake animation](https://github.com/GuiiPiloto/GuiiPiloto/blob/output/github-contribution-grid-snake.svg)
+</div>
