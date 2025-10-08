@@ -33,6 +33,7 @@
   <a href="https://wa.me/qr/MEWT4NS2HJPYF1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"></a>
 </div>
 
-<div> 
-![Snake animation](https://github.com/GuiiPiloto/GuiiPiloto/blob/output/github-contribution-grid-snake.svg)
-</div>
+---
+
+### 🐍 GitHub Snake Animation  
+![Snake animation](https://raw.githubusercontent.com/GuiiPiloto/GuiiPiloto/output/github-contribution-grid-snake.svg)
