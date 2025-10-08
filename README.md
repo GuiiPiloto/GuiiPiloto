@@ -34,6 +34,5 @@
 </div>
 
 ---
-
-### 🐍 GitHub Snake Animation  
-![Snake animation](https://raw.githubusercontent.com/GuiiPiloto/GuiiPiloto/output/github-contribution-grid-snake.svg)
+  
+![Snake animation](https://raw.githubusercontent.com/GuiiPiloto/GuiiPiloto/output/github-contribution-grid-snake-dark.svg)
