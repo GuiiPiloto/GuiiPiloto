@@ -3,12 +3,6 @@
 💻 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 | 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱  
 🚀 𝗔𝗹𝘄𝗮𝘆𝘀 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘃𝗼𝗹𝘃𝗶𝗻𝗴.
 
-<div>
-    <a href="https://github.com/GuiiPiloto"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiiPiloto&show_icons=true&bg_color=2b2b2b&title_color=00ff00&text_color=ffffff&icon_color=00ff00&include_all_commits=true&cache_seconds=1000"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiPiloto&layout=compact&langs_count=16&bg_color=2b2b2b&title_color=00ff00&text_color=ffffff&icon_color=00ff00&cache_seconds=1000"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Guii-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guii-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
