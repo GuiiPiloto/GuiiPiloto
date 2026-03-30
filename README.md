@@ -3,6 +3,10 @@
 💻 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 | 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱  
 🚀 𝗔𝗹𝘄𝗮𝘆𝘀 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘃𝗼𝗹𝘃𝗶𝗻𝗴.
 
+<div>
+  <img src="https://streak-stats.demolab.com?user=GuiiPiloto&theme=tokyonight" />
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Guii-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guii-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
